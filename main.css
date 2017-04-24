@@ -1,0 +1,166 @@
+body
+{
+    background-color: #11132f;
+    font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+header
+{
+    font-size: 1.95em;
+    margin-top: 0.5em;
+    letter-spacing: 3px;
+    color:white;
+}
+.Row {
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    background-color: #11132f;
+    flex-wrap: wrap;
+    text-align:center;
+    align-content:strech;
+    
+}
+.block
+{
+    background-color: #ab1467;
+    flex-grow: 1;
+    margin: 0.5%;
+}
+.Title1
+{
+    color: #fff;
+    font-size: 1.8em;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.Text11{
+    color: #fff;
+    font-size: 1.9em;
+    text-align: center;
+}
+.Image1{
+   display: block;
+   margin: auto; 
+   max-width: 100%;
+   border-radius: 100%;
+}
+.line {
+    background-color: #fff;
+    display: block;
+    width: 40px;
+    height: 2px;
+    margin: 13px auto;
+}
+.Text12
+{
+    display: inline-block; 
+    background-color: white;
+    width: 49.5%;
+    margin:auto;
+}
+.Text13
+{
+    color:Black;
+}
+.Text14{
+    color:Gray;
+}
+.Text15
+{
+    color:white;
+    font-size:1.5em;
+}
+.Title2
+{
+    color:black;
+    background-color:white;
+    text-align:center;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.Input11{
+    display:block;
+    margin: auto;
+    padding:auto;
+    width:90%;
+    height: 33%;
+}
+.Input12{
+    background-color: Black;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    font-size:1.5em;
+}
+.Title3
+{
+    color:black;
+    background-color:white;
+    text-align:center;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.Input21{
+    display:block;
+    margin: auto;
+    padding:auto;
+    width:90%;
+    height: 33%;
+}
+.Input22{
+    background-color: Black;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    font-size:1.5em;
+}
+.Title4
+{
+    color:black;
+    background-color:white;
+    text-align:center;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.Video4
+{
+    display: block;
+    margin:auto;
+    padding:auto;
+}
+.Title5
+{
+    color:black;
+    background-color:white;
+    text-align:center;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.Audio5.
+{
+    display: block;
+    margin:auto;
+    padding:auto;
+}
+.BG5
+{
+    background-image:url("11.jpg");
+    margin:auto;
+    padding:auto;
+}
+footer
+{
+    font-size: 0.975em;
+    margin-top: 0.25em;
+    letter-spacing: 1,5px;
+    color:white;
+}
